@@ -10,7 +10,7 @@
  <h2>How to Use</h2>
  <ol>
    <li>Clone the repository locally</li>
-   <li>Open the project VS 2022 and build solution</li>
+   <li>Open the project in VS 2022 and build solution</li>
    <li>Look for the generated file in the bin/debug/data folder, make sure no code or build issues</li>
    <li>Update the data/product_data.json to match your marketplace JSON by calling /me/proudcuts via Sitecore OrderCloud developer console</li>
    <li>Re-run the code</li>
