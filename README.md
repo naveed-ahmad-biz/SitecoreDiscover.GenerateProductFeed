@@ -1,4 +1,3 @@
-# SitecoreDiscover.GenerateProductFeed
 <h2>Purpose</h2>
  <p>This sample code converts the /me/product call from Sitecore OrderCloud into a TAB file as per the specficiations given at https://doc.sitecore.com/discover/en/developers/discover-developer-guide/product-data-feed-specifications.html</p>
  
